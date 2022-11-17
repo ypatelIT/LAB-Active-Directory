@@ -1,4 +1,4 @@
-<h1>Home LAB Active Directory</h1>
+<h1>Active Directory LAB in detail</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
